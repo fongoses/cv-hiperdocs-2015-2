@@ -1,0 +1,8 @@
+Competências
+
+
+MySQL, PHP, JavaScript, CSS,
+HTML, AJAX, JSON, PostgreSQL,
+Oracle, Linux, Windows, C#, C++,
+Lazarus, Delphi, Pascal, Python,
+R, Modelagem de Dados.

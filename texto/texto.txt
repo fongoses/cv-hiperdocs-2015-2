@@ -1,0 +1,31 @@
+﻿1. DADOS PESSOAIS
+Nome: Luiz Gustavo Frozi de Castro e Souza
+Profissão: Técnico em Processamento de Dados
+Idade: 33 anos
+Telefone: (51) 3573-6800 / (51) 3342-3810 / (51) 8315-0570
+Link para o Currículo: http://goo.gl/GuDlYg
+Site: http://www.fongoses.blogspot.com.br/
+Facebook: https://www.facebook.com/luiz.souza.5030927
+
+2. COMPETÊNCIAS
+MySQL, PHP, JavaScript, CSS, HTML, AJAX, JSON, PostgreSQL, Oracle, Linux, Windows, C#, C++, Lazarus, Delphi, Pascal, Python, R, Modelagem de Dados.
+
+3. ESCOLARIDADE
+INSTITUTO DE INFORMÁTICA DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+Bacharelado em Ciência da Computação - Em Curso
+ESCOLA TÉCNICA DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+Curso Técnico em Processamento de Dados Diurno - Concluído em fevereiro/99
+
+5. EXPERIÊNCIA
+MINISTÉRIO PÚBLICO FEDERAL
+Período: a partir de janeiro/2005
+Cargo: Técnico de Informática, Técnico do MPU/Apoio Técnico-Administrativo/Téc. da Inf. e Chefe do Núcleo de Sustentação de Soluções (a partir de janeiro/2015).
+Atividades de Desenvolvimento e Manutenção de Sistemas, Administração e Manutenção de Servidores de Banco de Dados e Servidor Web.
+CAIXA ECONÔMICA FEDERAL
+Período: dezembro/2002 à dezembro/2004
+Cargo: Técnico Bancário
+Atendimento ao público na área social e comercial. Cobrança bancária.
+BODY RUSH SUPORTES ESPORTIVOS E ORTOPÉDICOS LTDA.
+Período: agosto/2000 à dezembro/2001 (autônomo), janeiro/2002 à novembro/2002
+Cargo: Programador
+Desenvolvimento e manutenção de softwares, instalação e gerência de rede Windows 2000, instalação e configuração de computadores.

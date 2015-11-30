@@ -14,20 +14,32 @@
         </layout>
     </head>
     <body>
-        <par>
-            <img src="titulo.jpg" id="titulo" region="titulo_region" fit="fill" fill="hold" />
-
-            <text src="texto.txt" id="texto" region="texto_region" fit="scroll" />
+        <par begin="0ms">
+            <img src="imagem/titulo.jpg" id="titulo" region="titulo_region" fit="fill" fill="hold" />
 
             <seq>
-                <par>
-                    <img src="foto.jpg" id="foto" region="figura_region" dur="35s" fit="meet" fill="remove" />
-                    <audio src="intro.mp3" id="intro" dur="35s" />
-                </par>
+                <audio src="audio/intro.mp3" id="intro" dur="35s" />
+            </seq>
 
-                <video src="video.mpg" id="video" region="figura_region" fit="fill" fill="remove" />
+            <seq>
+                <img src="imagem/foto.jpg" id="foto" region="figura_region" dur="35s" fit="meet" fill="remove" />
+            </seq>
 
-                <img src="foto.jpg" id="foto" region="figura_region" dur="360s" fit="meet" fill="remove" />
+            <seq>
+                <text src="texto/intro.txt" id="texto" region="texto_region" dur="35s" fit="scroll" />
+            </seq>
+
+            <seq begin="36s">
+                <video src="video/video.mpg" id="video" region="figura_region" dur="28s" fit="fill" fill="remove" />
+            </seq>
+
+            <seq begin="36s">
+                <text src="texto/apresentacao.txt" id="texto" region="texto_region" dur="28s" fit="scroll" />
+                <text src="texto/texto.txt" id="texto" region="texto_region" dur="360s" fit="scroll" />
+            </seq>
+
+            <seq begin="64s">
+                <img src="imagem/foto.jpg" id="foto" region="figura_region" dur="360s" fit="meet" fill="remove" />
             </seq>
 
         </par>
