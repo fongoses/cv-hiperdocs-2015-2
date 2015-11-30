@@ -1,0 +1,161 @@
+﻿1. Dados Pessoais
+
+
+Nome:
+	Luiz Gustavo Frozi de Castro e Souza
+Profissão:
+	Técnico em Processamento de Dados
+Idade:
+	33 anos
+Telefone:
+	(51) 3573-6800 / (51) 3342-3810 / (51) 8315-0570
+Link para o Currículo:
+	http://goo.gl/GuDlYg
+Site:
+	http://www.fongoses.blogspot.com.br/
+Facebook:
+	https://www.facebook.com/luiz.souza.5030927
+
+
+2. Competências
+
+
+MySQL, PHP, JavaScript, CSS, HTML, AJAX, JSON, PostgreSQL, Oracle, Linux, Windows, C#, C++, Lazarus, Delphi, Pascal, Python, R, Modelagem de Dados.
+
+
+3. Escolaridade
+
+
+INSTITUTO DE INFORMÁTICA DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+Bacharelado em Ciência da Computação - Em Curso
+
+
+FACULDADE DE ARQUITETURA DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+Arquitetura & Urbanismo - Interrompido
+
+
+INSTITUTO DE MATEMATICA DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+Bacharelado em Matemática - Interrompido
+
+
+ESCOLA TÉCNICA DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+Curso Técnico em Segurança do Trabalho - Interrompido
+
+
+ESCOLA TÉCNICA DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+Curso Pós-Técnico em Redes de Computador - Interrompido
+
+
+ESCOLA TÉCNICA DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+Curso Técnico em Processamento de Dados Diurno - Concluído em fevereiro/99
+
+
+4. Língua Estrangeira
+
+
+INGLÊS
+Lê (intermediário), escreve (intermediário), fala (básico).
+
+
+ESPANHOL
+Lê (básico).
+
+
+5. Experiência
+
+
+MINISTÉRIO PÚBLICO FEDERAL
+Unidade: Procuradoria da República no Rio Grande do Sul (PRRS)
+Setores: Setor de Desenvolvimento de Sistemas e Núcleo de Sustentação de Soluções
+Período: a partir de janeiro/2005
+Cargo: Técnico de Informática, Técnico do MPU/Apoio Técnico-Administrativo/Téc. da Inf. e Chefe do Núcleo de Sustentação de Soluções (a partir de janeiro/2015).
+Atividades de Desenvolvimento e Manutenção de Sistemas (nas linguagens PHP, HTML, CSS, JavaScript, Java, Borland Delphi versão 5.0), Modelagem de Dados, Suporte a Usuários, Administração e Manutenção de Servidores de Banco de Dados (Oracle e MySQL) e Servidor Web (Apache/Linux), Manutenção do CMS Plone/Zope que hospeda os sites de Internet e Intranet da PRRS.
+
+
+CAIXA ECONÔMICA FEDERAL
+Setores: Agência
+Período: dezembro/2002 à dezembro/2004
+Cargo: Técnico Bancário
+Atendimento ao público na área social e comercial. Concessão de empréstimos habitacionais e financiamentos para pessoa física. CAIXA, recebimentos de depósitos, pagamento de contas, cheques, repasse de auxílios do governo federal. Cobrança bancária e recuperação de créditos comerciais e apoio à cobrança judicial. Promoção de ações de cobrança e elaboração de projetos nessa área dentro da agência.
+
+
+BODY RUSH SUPORTES ESPORTIVOS E ORTOPÉDICOS LTDA.
+Setores: Administração
+Período: agosto/2000 à dezembro/2001 (autônomo), janeiro/2002 à novembro/2002
+Cargo: Programador
+Desenvolvimento e manutenção de softwares utilizando, principalmente, o ambiente de programação Borland Delphi 3.0 com Microsoft Access, elaboração de projetos na área de informática, automação da linha de produção e pesquisa e compra de novos equipamentos. Instalação e gerência de rede Windows 2000, instalação e configuração de microcomputadores e laboratório para testes de novos softwares e bancos de dados.
+
+
+POLÍCIA CIVIL DO ESTADO DO RIO GRANDE DO SUL
+Setores: Serviço de Análise e Suporte de Sistemas (SASS/DSE/INP) e Serviço de Treinamento ao Usuário (STU/DAIN/DINP)
+Período: julho/97 à julho/2000
+Cargo: Estagiário
+Estágio como programador de computador, instrutor de informática e administrador de banco de dados. Realização de serviços de desenvolvimento de software, utilizando os ambientes de programação Borland Delphi (versões 1.0 à 4.0), Borland C++ Builder, CA-Clipper e outros menos destacados no mercado de informática; elaboração de cursos (incluindo apostilas, exercícios e cronogramas) e treinamento de funcionários para o uso do computador em softwares como Windows 95 e pacote Office, incluindo os sistemas desenvolvidos pela própria polícia; instalação e manutenção de bancos de dados MySQL Server e Inter Base.
+
+
+ESCOLA TÉCNICA DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+Setor: Secretaria do Gabinete
+Período: abril/97 à junho/98
+Cargo: Estagiário
+Estágio como secretario da direção. Realizando serviços de operação de computador, digitação e editoração eletrônica de textos e documentos, criação e elaboração de planilhas e tabelas, entre outros serviços de secretaria.
+
+
+FACULDADE DE ODONTOLOGIA DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+Setor: Biblioteca
+Período: março/97 à junho/97
+Cargo: Bolsista
+Estágio como auxiliar de biblioteca. Encarregado do atendimento ao público e da guarda de revistas e livros, além de alguns serviços de informática.
+
+
+ESCOLA TÉCNICA DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+Setor: Núcleo de Orientação Profissional (atual Setor de Integração Escola/Empresa)
+Período: setembro/96 à dezembro/96
+Cargo: Bolsista
+Estágio como operador de computador. Digitação e editoração de textos, criação e elaboração de planilhas eletrônicas, alimentação e atualização do Sistema de Informações do Núcleo de Orientação Profissional (SISNOP) utilizado pelo setor, além de fazer contato com empresas para solicitar vagas de estágio para alunos da Escola.
+
+
+ESCOLA TÉCNICA DA UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL
+Setor: Biblioteca
+Período: agosto/96
+Cargo: Estagiário
+Estágio como operador de computador. Criação e alimentação de bancos de dados, utilizando o SGBD Borland DBase III+ e o Sistema Automatizado de Bibliotecas da UFRGS (SABi), além de serviços de digitação e editoração de textos, atendimento ao público e guarda de livros.
+
+
+5. Serviços Autônomos
+
+
+* CONSULTORIA DE INFORMÁTICA PARA EMPRESAS
+* ELABORAÇÃO DE SOFTWARE EDUCACIONAL, CURSO DE EXTENSÃO, FACED/UFRGS
+* AULAS PARTICULARES DE INFORMÁTICA
+* ELABORAÇÃO DE APOSTILAS DE CURSOS DE INFORMÁTICA
+* DESENVOLVIMENTO DE SISTEMAS PARA EMPRESAS
+
+
+6. Organizações
+
+
+DACOMP - Diretório Acadêmico da Computação
+Período: julho de 2013 à junho de 2014
+Cargo: Tesoureiro
+
+
+DACOMP - Diretório Acadêmico da Computação
+Período: julho de 2012 à junho de 2013
+Cargo: Tesoureiro
+
+
+7. Cursos e Seminários
+
+
+* IMAGE AND VIDEO PROCESSING: FROM MARS TO HOLLYWOOD WITH A STOP AT THE HOSPITAL, DUKE UNIVERSITY (COURSERA)
+* COMPUTING FOR DATA ANALYSIS, JOHNS HOPKINS UNIVERSITY (COURSERA)
+* MALICIOUS SOFTWARE AND ITS UNDERGROUND ECONOMY: TWO SIDES TO EVERY STORY, UNIVERSITY OF LONDON (COURSERA)
+* INTERNET HISTORY, TECHNOLOGY AND SECURITY, UNIVERSITY OF MICHIGAN (COURSERA)
+* CURSO DE LÍNGUA INGLESA, ESCOLAS MICHIGAN
+* DESENVOLVIMENTO DE BANCO DE DADOS SQL SERVER, SISNEMA
+* CURSO DE MICROSOFT ACCESS, CDL
+* O AMBIENTE DE DESENVOLVIMENTO BORLAND DELPHI
+* BIOARQUITETURA, ULBRA
+* SEMANA DE ATIVIDADES CULTURAIS DA BCVM
+* VIII SALÃO DE INICIAÇÃO CIENTÍFICA DA UFRGS
+* FÓRUM INTERNACIONAL DE SOFTWARE LIVRE - FISL (edições 9, 11, 12, 13, 14, 15, 16)

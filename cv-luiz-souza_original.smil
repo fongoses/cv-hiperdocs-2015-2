@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 2.0//EN" "http://www.w3.org/2001/SMIL20/SMIL20.dtd" >
+<smil xmlns="http://www.w3.org/2001/SMIL20/Language" xmlns:rn="http://features.real.com/2001/SMIL20/Extensions">
+    <head>
+        <meta name="title" content="Curriculum Vitae de Luiz Souza" />
+        <meta name="author" content="Luiz Gustavo Frozi de Castro e Souza" />
+        <meta name="copyright" content="(c)2015 Luiz Souza" />
+        <layout>
+            <root-layout width="800" height="600" backgroundColor="silver" />
+            <region id="titulo_region" width="800" height="50" left="0" top="0" backgroundColor="white" />
+            <region id="video_region" width="320" height="240" left="10" top="60" backgroudColor="white" />
+            <region id="texto_region" width="450" height="530" left="340" top="60" backgroudColor="white" />
+            <!--
+            <region id="dados_button_region" width="64" left="8" fit="fill" backgroundColor="white" />
+            <region id="comp_button_region" width="64" left="88" fit="fill" backgroundColor="white" />
+            <region id="escola_button_region" width="64" left="168" fit="fill" backgroundColor="white" />
+            <region id="lingua_button_region" width="64" left="88" fit="fill" backgroundColor="white" />
+            <region id="experiencia_button_region" width="64" left="88" fit="fill" backgroundColor="white" />
+            <region id="org_button_region" width="64" left="88" fit="fill" backgroundColor="white" />
+            <region id="cursos_button_region" width="64" left="88" fit="fill" backgroundColor="white" />
+            -->
+        </layout>
+    </head>
+    <body>
+        <par>
+            <!--
+            <img src="dados_button.jpg" id="dados_button" region="dados_button_region" dur="5s" fill="hold">
+                <area href="#dados" id="dados_link" sourcePlaystate="play" />
+            </img>
+            <img src="comp_button.jpg" id="comp_button" region="comp_button_region" dur="5s" fill="hold">
+                <area href="#comp" id="comp_link" sourcePlaystate="play" />
+            </img>
+            <img src="escola_button.jpg" id="escola_button" region="escola_button_region" dur="5s" fill="hold">
+                <area href="#escola" id="escola_link" sourcePlaystate="play" />
+            </img>
+            <img src="lingua_button.jpg" id="lingua_button" region="lingua_button_region" dur="5s" fill="hold">
+                <area href="#lingua" id="lingua_link" sourcePlaystate="play" />
+            </img>
+            <img src="experiencia_button.jpg" id="experiencia_button" region="experiencia_button_region" dur="5s" fill="hold">
+                <area href="#experiencia" id="experiencia_link" sourcePlaystate="play" />
+            </img>
+            <img src="org_button.jpg" id="org_button" region="org_button_region" dur="5s" fill="hold">
+                <area href="#org" id="org_link" sourcePlaystate="play" />
+            </img>
+            <img src="cursos_button.jpg" id="cursos_button" region="cursos_button_region" dur="5s" fill="hold">
+                <area href="#cursos" id="cursos_link" sourcePlaystate="play" />
+            </img>
+
+            <img src="botao3.jpg" id="button3" region="button_region3" dur="5s" fill="hold">
+                <area href="#clip3" id="link3" sourcePlaystate="play" />
+            </img>
+            <seq>
+                <img src="gramado.jpg" id="clip1" region="video_region" dur="10s" fit="fill" fill="remove" />
+                <img src="sampa.jpg" id="clip2" region="video_region" dur="10s" fill="hold" fit="fill" />
+                <img src="rio.jpg" id="clip3" region="video_region" fit="fill" fill="remove" dur="10s" />
+            </seq>
+            -->
+
+            <img src="titulo.jpg" id="titulo" region="titulo_region" fit="fill" fill="remove" />
+
+            <text src="texto.htm" id="texto" region="texto_region" fit="scroll" />
+
+            <seq>
+                <par>
+                    <img src="foto.jpg" id="foto" region="video_region" dur="35s" fit="meet" fill="remove" />
+                    <audio src="intro.mp3" id="intro" dur="35s" />
+                </par>
+                <video src="video.mpg" id="video" region="video_region" fit="fill" fill="remove" />
+                <img src="foto.jpg" id="foto" region="video_region" fit="meet" fill="remove" />
+            </seq>
+
+        </par>
+    </body>
+</smil>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 2.0//EN" "http://www.w3.org/2001/SMIL20/SMIL20.dtd">
+
+<smil xmlns="http://www.w3.org/2001/SMIL20/Language" xmlns:rn="http://features.real.com/2001/SMIL20/Extensions">
+    <head>
+        <meta name="title" content="Curriculum Vitae de Luiz Souza" />
+        <meta name="author" content="Luiz Gustavo Frozi de Castro e Souza" />
+        <meta name="copyright" content="(c)2015 Luiz Souza" />
+        <layout>
+            <root-layout width="800" height="600" backgroundColor="silver" />
+            <region id="titulo_region" width="800" height="50" left="0" top="0" backgroundColor="white" />
+            <region id="figura_region" width="320" height="240" left="0" top="60" backgroundColor="white" />
+            <region id="texto_region" width="450" height="530" left="340" top="60" backgroundColor="white" />
+        </layout>
+    </head>
+    <body>
+        <par>
+            <img src="titulo.jpg" id="titulo" region="titulo_region" fit="fill" fill="hold" />
+
+            <text src="texto.txt" id="texto" region="texto_region" fit="scroll" />
+
+            <seq>
+                <par>
+                    <img src="foto.jpg" id="foto" region="figura_region" dur="35s" fit="meet" fill="remove" />
+                    <audio src="intro.mp3" id="intro" dur="35s" />
+                </par>
+
+                <video src="video.mpg" id="video" region="figura_region" fit="fill" fill="remove" />
+
+                <img src="foto.jpg" id="foto" region="figura_region" dur="360s" fit="meet" fill="remove" />
+            </seq>
+
+        </par>
+    </body>
+</smil>
