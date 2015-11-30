@@ -1,26 +1,16 @@
-Experiência
-
+EXPERIÊNCIA
 
 MINISTÉRIO PÚBLICO FEDERAL
 Período: a partir de janeiro/2005
 Cargo: Técnico de Informática, Técnico do MPU/Apoio Técnico-Administrativo/Téc. da Inf. e Chefe do Núcleo de Sustentação de Soluções (a partir de janeiro/2015).
-Atividades de Desenvolvimento e Manutenção de Sistemas (nas linguagens
-PHP, HTML, CSS, JavaScript, Java, Borland Delphi versão 5.0),
-Modelagem de Dados, Suporte a Usuários, Administração e
-Manutenção de Servidores de Banco de Dados (Oracle e MySQL) e
-Servidor Web (Apache/Linux), Manutenção do CMS Plone/Zope que hospeda
-os sites de Internet e Intranet da PRRS.
+Atividades de Desenvolvimento e Manutenção de Sistemas (nas linguagens PHP, HTML, CSS, JavaScript, Java, Borland Delphi versão 5.0), Modelagem de Dados, Suporte a Usuários, Administração e Manutenção de Servidores de Banco de Dados (Oracle e MySQL) e Servidor Web (Apache/Linux), Manutenção do CMS Plone/Zope que hospeda os sites de Internet e Intranet da PRRS.
 
 CAIXA ECONÔMICA FEDERAL
 Período: dezembro/2002 à dezembro/2004
 Cargo: Técnico Bancário
-Atendimento ao público na área social e comercial. Cobrança bancária
-e recuperação de créditos comerciais e apoio à cobrança judicial.
+Atendimento ao público na área social e comercial. Cobrança bancária e recuperação de créditos comerciais e apoio à cobrança judicial.
 
 BODY RUSH SUPORTES ESPORTIVOS E ORTOPÉDICOS LTDA.
 Período: agosto/2000 à dezembro/2001 (autônomo), janeiro/2002 à novembro/2002
 Cargo: Programador
-Desenvolvimento e manutenção de softwares utilizando, principalmente,
-o ambiente de programação Borland Delphi 3.0 com Microsoft Access,
-instalação e gerência de rede Windows 2000, instalação e configuração
-de microcomputadores.
+Desenvolvimento e manutenção de softwares utilizando, principalmente, o ambiente de programação Borland Delphi 3.0 com Microsoft Access, instalação e gerência de rede Windows 2000, instalação e configuração de microcomputadores.

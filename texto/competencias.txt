@@ -1,5 +1,4 @@
-Competências
-
+COMPETÊNCIAS
 
 MySQL, PHP, JavaScript, CSS,
 HTML, AJAX, JSON, PostgreSQL,

@@ -9,7 +9,7 @@
         <layout>
             <root-layout width="800" height="600" backgroundColor="silver" />
             <region id="titulo_region" width="800" height="50" left="0" top="0" backgroundColor="white" />
-            <region id="figura_region" width="320" height="240" left="0" top="60" backgroundColor="white" />
+            <region id="figura_region" width="320" height="180" left="10" top="60" backgroundColor="white" />
             <region id="texto_region" width="450" height="530" left="340" top="60" backgroundColor="white" />
         </layout>
     </head>
@@ -30,15 +30,30 @@
             </seq>
 
             <seq begin="36s">
-                <video src="video/video.mpg" id="video" region="figura_region" dur="28s" fit="fill" fill="remove" />
+                <video src="video/apresentacao.mpg" id="video" region="figura_region" dur="28s" fit="fill" fill="remove" />
+                <video src="video/dados.mpg" id="dados_video" region="figura_region" dur="20s" fit="fill" fill="remove" />
+                <video src="video/competencias.mpg" id="competencias_video" region="figura_region" dur="30s" fit="fill" fill="remove" />
+                <video src="video/escolaridade.mpg" id="escolaridade_video" region="figura_region" dur="36s" fit="fill" fill="remove" />
+                <video src="video/experiencia.mpg" id="experiencia_video" region="figura_region" dur="70s" fit="fill" fill="remove" />
+                <video src="video/organizacoes.mpg" id="organizacoes_video" region="figura_region" dur="21s" fit="fill" fill="remove" />
+                <video src="video/cursos.mpg" id="cursos_video" region="figura_region" dur="39s" fit="fill" fill="remove" />
             </seq>
 
             <seq begin="36s">
-                <text src="texto/apresentacao.txt" id="texto" region="texto_region" dur="28s" fit="scroll" />
-                <text src="texto/texto.txt" id="texto" region="texto_region" dur="360s" fit="scroll" />
+                <text src="texto/apresentacao.txt" id="apresentacao_texto" region="texto_region" dur="28s" fit="scroll" />
+                <text src="texto/dados.txt" id="dados_texto" region="texto_region" dur="20s" fit="scroll" />
+                <text src="texto/competencias.txt" id="competencias_texto" region="texto_region" dur="30s" fit="scroll" />
+                <text src="texto/escolaridade.txt" id="escolaridade_texto" region="texto_region" dur="36s" fit="scroll" />
+                <text src="texto/experiencia.txt" id="experiencia_texto" region="texto_region" dur="70s" fit="scroll" />
+                <text src="texto/organizacoes.txt" id="organizacoes_texto" region="texto_region" dur="21s" fit="scroll" />
+                <text src="texto/cursos.txt" id="cursos_texto" region="texto_region" dur="39s" fit="scroll" />
             </seq>
 
-            <seq begin="64s">
+            <seq begin="280s">
+                <text src="texto/texto.txt" id="final_dados_texto" region="texto_region" dur="360s" fit="scroll" />
+            </seq>
+
+            <seq begin="280s">
                 <img src="imagem/foto.jpg" id="foto" region="figura_region" dur="360s" fit="meet" fill="remove" />
             </seq>
 
